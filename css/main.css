@@ -23,6 +23,11 @@ h1 {
 .info p {
     font-family: "Inconsolata", monospace;
     font-size: 24px;
+    align-items: center;
+}
+
+.info {
+  margin-bottom: 50px;
 }
 
 
